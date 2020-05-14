@@ -8,10 +8,8 @@ header {
 	width: 800px;
 	position: relative;
 	margin: 0 auto;
-	
-	text-shadow: gray;
-	
-	text-align: center;
+	padding:  0 50px;
+	box-shadow: -10px 0 10px -10px #333, 10px 0 10px -10px #333;
 }
 img {
 	background-color: blue;
