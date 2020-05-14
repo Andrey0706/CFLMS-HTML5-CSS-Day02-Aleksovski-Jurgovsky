@@ -13,6 +13,7 @@ img {
 	width: 800px;
 	margin: 0 auto;
 	box-shadow: -10px 0 10px -10px #333, 10px 0 10px -10px #333;
+	border-radius: 10px;
 }
 
 #hair2 {
@@ -77,4 +78,9 @@ h1 {
 }
 .text {
 	color: black;
+	position: absolute;
+	top:  80px;
+	font-size: 1.1em;
+	left: 950px
+
 }
