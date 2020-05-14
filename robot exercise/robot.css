@@ -76,6 +76,9 @@ h1 {
 	left: 570px;
 	z-index: 2;
 }
+#cigar:hover {
+	display: none;
+}
 .text {
 	color: black;
 	position: absolute;
