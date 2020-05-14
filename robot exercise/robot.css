@@ -1,0 +1,80 @@
+img {
+  width: 50px;
+}
+#face {
+
+  width: 400px;
+  position: relative;
+  top: -50px;
+
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+	box-shadow: -10px 0 10px -10px #333, 10px 0 10px -10px #333;
+}
+
+#hair2 {
+	position: absolute;
+	top: 30;
+	width: 300px;
+	left: 610;
+}
+
+#eyes2 {
+	position: absolute;
+	top: 150;
+	width: 150px;
+	left: 690;
+	z-index: 1;
+}
+#nose2 {
+	position: absolute;
+	top: 170;
+	width: 100px;
+	left: 714;
+	z-index: 1;
+}
+
+#mouth1 {
+	position: absolute;
+	top:  260px;
+	width: 200px;
+	left: 655;
+	z-index: 1;
+}
+
+#ears1 {
+	position: absolute;
+	top:  60px;
+	width: 362px;
+	left: 575px;
+	
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	background-color: green;
+	border-radius: 5px;
+}
+
+#thought {
+	position: absolute;
+	top:  45px;
+	width: 270px;
+	left: 920px;
+
+}
+
+#cigar {
+	position: absolute;
+	top:  280px;
+	width: 210px;
+	left: 570px;
+	z-index: 2;
+}
+.text {
+	color: black;
+}
