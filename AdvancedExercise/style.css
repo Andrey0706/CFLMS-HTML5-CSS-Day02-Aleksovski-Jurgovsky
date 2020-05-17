@@ -1,0 +1,48 @@
+body {
+	margin: 0 200px;
+	font-family: "Roboto";
+
+}
+header {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.part {
+	text-align: center;
+	background-color: #F1ECEB;
+	min-height: 50px;
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+
+}
+
+a {
+	text-decoration: underline;
+	padding-left: 20px;
+	color: #052102;
+}
+
+td {
+	margin-right: 20px;
+	float: left;
+	width: 32.32%;
+}
+
+td.last {
+	float:right;
+	margin-right: 0px;
+}
+
+table {
+	width: 100%;
+}
+p {
+	float: left;
+	padding-right: 20px;
+}
+
+.part.links {
+	text-decoration: underline;
+}
